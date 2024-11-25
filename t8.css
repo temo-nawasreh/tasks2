@@ -1,0 +1,9 @@
+.e .sel ,.t ,.t1,.t2,.t3,.t4,.t5
+{
+    margin-bottom: 20px;
+}
+
+.t5{
+    display: flex;
+    flex-direction: column;
+}

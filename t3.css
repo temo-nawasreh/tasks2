@@ -1,0 +1,24 @@
+body
+{
+    background-color:rgb(27, 6, 80);
+}
+.d1,.d2,.d3
+{
+    border: 1px solid white;
+    padding: 15px;
+    color: white;
+
+}
+.h3, .h32
+{
+    color: rgba(224, 89, 11, 0.893);
+}
+
+.t1,.t2,.t3
+{
+    border: 1px solid white;
+    padding: 15px;
+    color: white;
+    margin-right: 10px;
+    
+}

@@ -1,0 +1,31 @@
+.f1 ,.f2
+{
+    background-color: rgb(253, 220, 6);
+    width: 400px;
+    padding: 20px;
+    margin-left: 200px;
+    margin-top: 80px;
+    
+}
+
+.f2 
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.t1,.t2,.t3,.t4
+{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.s
+{
+    margin-left: 380px;
+}
+
+.f2{
+    margin-bottom: 20px;
+}
